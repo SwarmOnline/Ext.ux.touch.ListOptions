@@ -1,6 +1,6 @@
 # Ext.ux.touch.ListOptions
 
-This plugin duplicates the functionality found in Twitter’s mobile apps where an options menu is exposed after swiping over an item in a list.
+This plugin duplicates the functionality found in Twitter's mobile apps where an options menu is exposed after swiping over an item in a list.
 
 ![Ext.ux.touch.ListOptions Screenshot](http://www.swarmonline.com/wp-content/uploads/2011/03/Screenshot.png)
 
